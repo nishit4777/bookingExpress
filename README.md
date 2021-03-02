@@ -3,4 +3,6 @@ A java application for Railway Management System to book tickets with a novel fe
 
 This project is created using JAVA GUI with SWINGS and AWT. I have used Mysql database here, also I have attached the screenshots of Database here.
 
+By downloading the bookingExpress zip file all the java files will be available in the package named nishit.
+
 
